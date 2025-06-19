@@ -1,7 +1,7 @@
 {
-  "name": "aplikasi azhar gunawan",
-  "short_name": "apk azhar",
-  "start_url": "index.html",
+  "name": "Azhar Gunawan Portfolio",
+  "short_name": "Azhar",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4CAF50",
